@@ -3,7 +3,6 @@ Failure data and analysis for FTXS 2024 paper
 
 Please cite the following the if you use the analysis or datasets from this repo:
 
-1. Collection of Disk Failure Events from Alpine, the Parallel File System for Summit Supercomputer
 @article{new-alpine-dataset,
 title = {Collection of Disk Failure Events from Alpine, the Parallel File System for Summit Supercomputer},
 author = {George, Anjus and Hanley, Jesse and Zimmer, Christopher},
@@ -15,7 +14,6 @@ year = {2024},
 month = {9}
 }
 
-2. Disk Failure Dataset from the Campaign Storage System
 @article{campaign-dataset,
 title = {Disk Failure Dataset from the Campaign Storage System},
 author = {George, Anjus and Hanley, Jesse and Zimmer, Christopher},
