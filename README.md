@@ -3,6 +3,18 @@ Failure data and analysis for FTXS 2024 paper
 
 Please cite the following the if you use the analysis or datasets from this repo:
 
+@INPROCEEDINGS{ftxs-paper,
+  author={George, Anjus and Wang, Meng and Hanley, Jesse and Ransom, Garrett Wilson and Bent, John and Zimmer, Christopher},
+  booktitle={SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis}, 
+  title={From Failure to Insight: Analyzing Disk Breakdowns in Large-Scale HPC Environments}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={484-495},
+  keywords={Data centers;Electric breakdown;High performance computing;Conferences;Production;Market research;Reliability engineering;Robustness;System analysis and design;Failure data analysis;Cause effect analysis;Hard disk drives;HPC storage;Reliability;Supercomputer;Summit},
+  doi={10.1109/SCW63240.2024.00070}}
+
+
 @article{new-alpine-dataset,
 title = {Collection of Disk Failure Events from Alpine, the Parallel File System for Summit Supercomputer},
 author = {George, Anjus and Hanley, Jesse and Zimmer, Christopher},
